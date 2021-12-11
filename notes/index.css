@@ -1,0 +1,32 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.textbox
+{
+    /* border: none;
+    outline: none;
+    background: none;
+    overflow: hidden;
+    color: whitesmoke; */
+    background: transparent;
+    /* opacity: 0.5; */
+    border-color: black;
+    width: 700px;
+    padding: 30px;
+    color: black;
+
+}
+
+.bc
+{
+    border-bottom: 2px solid black;
+    width: 60%;
+}
+
+
+
